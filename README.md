@@ -1,7 +1,7 @@
 ## Projetos em Python para modelos Matemáticos
 
-	- **Bibliotecas:**
-		- Numpy
-		- Scypy
-		- Matplot 
+- **Bibliotecas:**
+	- Numpy
+	- Scypy
+	- Matplot 
  
